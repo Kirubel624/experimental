@@ -1,0 +1,34 @@
+h5{
+  margin-top: 50px;
+    color:rgba(251, 150, 56, 0.984)
+}
+.logout{
+    border: 0;
+    outline: 0;
+    padding: 8px 1em;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    height: 43px;
+    width: 80px;
+    margin-top:16px;
+    margin-left: 10px;
+    border-radius: 20px;
+    transition: all 240ms ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+}
+  
+  .logout:hover {
+    color: rgba(251, 150, 56, 0.984);
+    text-decoration: none;
+  }
+#username_logout {
+
+    text-transform: uppercase;
+  /* text-transform: capitalize; */
+  }
+  .logout_c{
+    display: flex;
+    flex-direction: row;
+  }
